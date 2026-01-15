@@ -1,4 +1,4 @@
-# Project 1: Gold Recovery Prediction
+# Project 2: Gold Recovery Prediction
 
 ## Overview
 This project aims to predict gold recovery from gold ore using machine learning models.
