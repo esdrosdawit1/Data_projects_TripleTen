@@ -25,3 +25,5 @@ Code: [Gold Recovery Prediction.ipynb](./Gold-Recovery-Prediction-Project.ipynb)
 
 ## Data
 The gold recovery dataset contains industrial process measurements. Due to data privacy restrictions, the dataset is not publicly available.
+
+#MachineLearning #GoldRecovery #Regression #IndustrialProcess #Python #DataScience
