@@ -17,9 +17,8 @@ Develop a model to predict gold recovery and evaluate its performance.
 - Linear Regression
 - Decision Tree
 
-## Findings
-- Random Forest performed best: sMAPE 8.58 (validation), 12.10 (test).
-- Linear Regression: sMAPE 13.18. Decision Tree: sMAPE 12.86.
+## Conclusion
+The Random Forest model effectively predicted gold recovery from industrial process measurements, achieving an sMAPE of 8.58 on validation and 12.10 on test data, outperforming Linear Regression (sMAPE: 13.18) and Decision Tree (sMAPE: 12.86).
 
 ## Code
 Code: [Gold Recovery Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Gold-Recovery-Integrated-Project/Gold-Recovery-Integrated-Project.ipynb)
