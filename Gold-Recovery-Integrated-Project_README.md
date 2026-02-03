@@ -20,6 +20,8 @@ Develop a model to predict gold recovery and evaluate its performance.
 ## Conclusion
 The Random Forest model effectively predicted gold recovery from industrial process measurements, achieving an sMAPE of 8.58 on validation and 12.10 on test data, outperforming Linear Regression (sMAPE: 13.18) and Decision Tree (sMAPE: 12.86).
 
+Implementing the model in real-time process control systems could optimize gold recovery by adjusting process parameters dynamically. Further feature engineering, like incorporating sensor data from additional stages of the process, might boost prediction accuracy. The model could also be adapted to predict recovery rates for other metals or minerals, broadening its industrial applicability.
+
 ## Code
 Code: [Gold Recovery Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Gold-Recovery-Integrated-Project/Gold-Recovery-Integrated-Project.ipynb)
 
