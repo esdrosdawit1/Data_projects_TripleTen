@@ -6,17 +6,19 @@ This project focuses on building a model to classify movie reviews as positive o
 ## Objective
 Develop a model that achieves an F1 score of at least 0.85 in classifying movie reviews.
 
-## Key Steps
-- Data loading and preprocessing
-- Exploratory data analysis and class imbalance analysis
-- Model training and evaluation using Logistic Regression and Gradient Boosting
+## Approach 
+- Data Preprocessing: Loaded IMDB dataset, cleaned text, handled class imbalance.
+- Exploratory Analysis: Analyzed review lengths, word frequencies.
+- Model Training: Trained Logistic Regression and Gradient Boosting. Used F1 score for evaluation.
+- Evaluation: Achieved F1 > 0.85, met target threshold.
 
 ## Models Used
 - Logistic Regression
 - Gradient Boosting
 
 ## Findings
-The model achieved an F1 score above the target threshold, indicating its effectiveness in sentiment analysis.
+- Model was effective for sentiment analysis.
+- F1 score above target.
 
 ## Code
 Code: [Sentiment Analysis of Movie Reviews.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Movie-Review-Sentiment-Analysis-Project/Movie-Review-Sentiment-Analysis-Project.ipynb)
