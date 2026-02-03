@@ -16,9 +16,8 @@ Develop a model that achieves an F1 score of at least 0.85 in classifying movie 
 - Logistic Regression
 - Gradient Boosting
 
-## Findings
-- Model was effective for sentiment analysis.
-- F1 score above target.
+## Conclusion
+The sentiment analysis model effectively classified movie reviews as positive or negative, achieving an F1 score above the target threshold of 0.85. This demonstrates its applicability for sentiment analysis tasks, providing a reliable tool for understanding customer feedback and opinions.
 
 ## Code
 Code: [Sentiment Analysis of Movie Reviews.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Movie-Review-Sentiment-Analysis-Project/Movie-Review-Sentiment-Analysis-Project.ipynb)
