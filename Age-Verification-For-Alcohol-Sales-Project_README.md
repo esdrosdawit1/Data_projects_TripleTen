@@ -8,7 +8,7 @@ Develop a model that accurately predicts age from images to help supermarkets ad
 
 ## Approach
 - Data Preprocessing: Loaded and preprocessed images (resizing, normalization) using OpenCV and Python.
-- Model Architecture : Built a CNN with Keras/TensorFlow, using Conv2D, MaxPooling, and Dense layers.
+- Model Architecture: Built a CNN with Keras/TensorFlow, using Conv2D, MaxPooling, and Dense layers.
 - Training & Evaluation: Trained on 80% data, validated on 20%. Used MAE for evaluation.
 - Optimization: Tuned hyperparameters (learning rate, batch size) for better accuracy.
 
