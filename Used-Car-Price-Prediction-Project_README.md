@@ -6,10 +6,11 @@ This project involves building a model to predict used car prices based on techn
 ## Objective
 Develop a model that accurately predicts used car prices while considering prediction quality, speed, and training time.
 
-## Key Steps
-- Data exploration and preprocessing
-- Model training and evaluation using RMSE metric
-- Hyperparameter tuning for CatBoost, XGBoost, LightGBM, Random Forest, and Linear Regression models
+## Approach 
+Data Preprocessing: Cleaned and analyzed car data (handled missing values, encoded categoricals).
+Model Training: Trained CatBoost, XGBoost, LightGBM, Random Forest, Linear Regression. Used RMSE for evaluation.
+Optimization: Tuned hyperparameters for best performance (CatBoost best).
+Feature Focus: Analyzed feature importance (e.g., mileage, registration year impact price).
 
 ## Models Used
 - CatBoost
@@ -19,9 +20,9 @@ Develop a model that accurately predicts used car prices while considering predi
 - Linear Regression
 
 ## Findings
-- **CatBoost**: RMSE = 1867.59, train time = 2.37s (best performer).
-- **LightGBM**: RMSE = 1943.41, train time = 310.12s.
-- **Linear Regression**: RMSE = 3216.39, train time = 22.45s.
+- CatBoosst: RMSE = 1867.59, train time = 2.37s (best performer).
+- LightGBM: RMSE = 1943.41, train time = 310.12s.
+- Linear Regression: RMSE = 3216.39, train time = 22.45s.
 
 ## Code
 Code: [Used Car Price Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Used-Car-Price-Prediction-Project/Used-Car-Price-Prediction-Project.ipynb)
