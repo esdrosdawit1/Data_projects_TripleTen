@@ -19,10 +19,8 @@ Feature Focus: Analyzed feature importance (e.g., mileage, registration year imp
 - Random Forest
 - Linear Regression
 
-## Findings
-- CatBoosst: RMSE = 1867.59, train time = 2.37s (best performer).
-- LightGBM: RMSE = 1943.41, train time = 310.12s.
-- Linear Regression: RMSE = 3216.39, train time = 22.45s.
+## Conclusion
+The model evaluation showed CatBoost as the top performer (RMSE: 1867.59, train time: 2.37s), followed by LightGBM (RMSE: 1943.41) and Linear Regression (RMSE: 3216.39), demonstrating CatBoost's effectiveness in predicting used car prices.
 
 ## Code
 Code: [Used Car Price Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Used-Car-Price-Prediction-Project/Used-Car-Price-Prediction-Project.ipynb)
