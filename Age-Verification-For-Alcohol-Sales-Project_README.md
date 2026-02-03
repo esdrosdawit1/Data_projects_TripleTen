@@ -14,11 +14,10 @@ Develop a model that accurately predicts age from images to help supermarkets ad
 
 
 ## Models Used
-- Neural Network (CNN)
+- Neural Network (CNN)_
 
-## Findings
-- Model achieved ~5.2 MAE on validation set. Can improve with more data/tuning.
-- Useful for automating age checks in supermarkets.
+## Conclusion 
+The CNN model achieved a Mean Absolute Error (MAE) of ~5.2 years on the validation set, demonstrating potential for automating age checks in supermarkets. With further tuning and more data, accuracy could improve, enhancing its applicability.
 
 ## Code
 Code: [Age Detection using Computer Vision.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Age-Verification-For-Alcohol-Sales-Project/Age-Verification-For-Alcohol-Sales-Project.ipynb)
