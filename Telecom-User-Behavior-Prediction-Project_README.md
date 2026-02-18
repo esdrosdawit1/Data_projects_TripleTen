@@ -32,8 +32,8 @@ The effectiveness of the Random Forest model is further highlighted by its perfo
 
 Throughout the development process, careful attention was paid to hyperparameter tuning for each model (e.g., `C` for Logistic Regression, `max_depth` for tree-based models). This iterative optimization was crucial for finding the optimal balance between model complexity and its ability to generalize to new, unseen user data, ultimately ensuring reliable and actionable insights for Megaline.
 
-#Code
-Code: [Telecom User Behavior Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Gold-Recovery-Integrated-Project/Gold-Recovery-Integrated-Project.ipynb](https://github.com/esdrosdawit1/Data_projects_TripleTen/blob/main/Telecom-User-Behavior-Prediction-Project/Telecom-User-Behavior-Prediction-Project.ipynb)
+## Code
+Code: [Telecom User Behavior Prediction.ipynb](https://github.com/esdrosdawit1/Data_projects_TripleTen/blob/main/Telecom-User-Behavior-Prediction-Project/Telecom-User-Behavior-Prediction-Project.ipynb)
 
 ## Data
 The dataset used, `users_behavior.csv`, contains monthly behavior information for individual users, including `calls` (number of calls), `minutes` (total call duration), `messages` (number of text messages), `mb_used` (Internet traffic in MB), and `is_ultra` (the target variable: Ultra - 1, Smart - 0).
