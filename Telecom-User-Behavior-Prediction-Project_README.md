@@ -1,4 +1,4 @@
-# Project 2: Telecom User Behavior Prediction Project
+# Project 6: Telecom User Behavior Prediction Project
 
 ## Overview
 This project focuses on developing a machine learning model for mobile carrier Megaline. The goal is to analyze subscriber behavior and recommend one of two newer mobile plans: "Smart" or "Ultra." The task involves building a classification model to accurately predict the optimal plan for a user based on their usage data.
