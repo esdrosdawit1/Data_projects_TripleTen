@@ -1,10 +1,10 @@
-# Project 1: Age Detection using Computer Vision
+# Age Detection using Computer Vision
 
 ## Overview
-This project involves building a model to detect a person's age from images using computer vision techniques.
+This project involves building a model to detect age from images using computer vision techniques.
 
 ## Objective
-Develop a model that accurately predicts age from images to help supermarkets adhere to alcohol laws.
+Develop a model that accurately predicts age through images to help supermarkets adhere to drinking-age regulations.
 
 ## Approach
 - Data Preprocessing: Loaded and preprocessed images (resizing, normalization) using OpenCV and Python.
