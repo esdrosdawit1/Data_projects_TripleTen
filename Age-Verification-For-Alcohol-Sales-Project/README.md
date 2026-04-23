@@ -1,0 +1,28 @@
+# Age Detection using Computer Vision
+
+## Overview
+This project involves building a model to detect age from images using computer vision techniques.
+
+## Objective
+Develop a model that accurately predicts age through images to help supermarkets adhere to drinking-age regulations.
+
+## Approach
+- Data Preprocessing: Loaded and preprocessed images (resizing, normalization) using OpenCV and Python.
+- Model Architecture: Built a CNN with Keras/TensorFlow, using Conv2D, MaxPooling, and Dense layers.
+- Training & Evaluation: Trained on 80% data, validated on 20%. Used MAE for evaluation.
+- Optimization: Tuned hyperparameters (learning rate, batch size) for better accuracy.
+
+
+## Models Used
+- Neural Network (CNN)_
+
+## Conclusion 
+The CNN model achieved a Mean Absolute Error (MAE) of ~5.2 years on the validation set, demonstrating potential for automating age checks in supermarkets. With further tuning and more data, accuracy could improve, enhancing its applicability.
+
+To further enhance the model's applicability, consider integrating it with real-time video feeds at supermarket entrances or checkout counters. Additional training data from diverse demographics could improve accuracy across different age groups and ethnicities. The model could also be expanded to estimate other attributes like gender or mood, enabling personalized marketing or customer experience enhancements.
+
+## Code
+Code: [Age Detection using Computer Vision.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Age-Verification-For-Alcohol-Sales-Project/Age-Verification-For-Alcohol-Sales-Project.ipynb)
+
+## Data
+The dataset contains images with age labels. Due to data privacy restrictions, the dataset is not publicly available.
