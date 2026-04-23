@@ -14,7 +14,7 @@ Develop a model that accurately predicts age through images to help supermarkets
 
 
 ## Models Used
-- Neural Network (CNN)_
+- Neural Network (CNN)
 
 ## Conclusion 
 The CNN model achieved a Mean Absolute Error (MAE) of ~5.2 years on the validation set, demonstrating potential for automating age checks in supermarkets. With further tuning and more data, accuracy could improve, enhancing its applicability.
